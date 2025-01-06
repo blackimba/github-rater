@@ -1,0 +1,19 @@
+.header {
+    text-align: center;
+    background-color: #b4d6f7;
+    padding-top: 10px;
+    padding-bottom: 10px
+  }
+  
+  .topicsContainer {
+    border: 1px solid #002b40;
+    color: #002b40;
+    display: inline-block;
+    padding: 3px 10px 5px 10px;
+    border-radius: 20px;
+    margin-right: 5px;
+  }
+  
+  .topicsContainer:last-child {
+    margin-right: 0px;
+  }
