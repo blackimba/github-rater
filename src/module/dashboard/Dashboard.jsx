@@ -12,7 +12,6 @@ function Dashboard() {
   const itemsPerPage = 10;
   const totalPages = 100;
 
-
   const accessToken = localStorage.getItem('accessToken');
 
   const fetchData = useCallback(async () => {
